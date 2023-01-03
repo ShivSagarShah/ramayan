@@ -1,0 +1,75 @@
+.SearchPage-header{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin: 10px 0 0px 10px;
+}
+
+.SearchPage-heading{
+    position: relative;
+    margin-top: auto;
+    margin-left: 10px;
+}
+
+.SearchPage-logout{
+    display: flex;
+    align-items: center;
+    margin-right: 10px;
+}
+
+.SearchPage-image{
+    display: flex;
+    align-items: center;
+}
+
+.SearchPage-head{
+    display: flex;
+}
+
+.SearchPage-filters{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    margin: 0 10px;
+}
+
+.SearchPage-searchBox{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin: 0 10px;
+}
+.search-input{
+    width: 70vw;
+}
+
+.searchedData-heading{
+    margin: 0 20px;
+}
+
+.listContent{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin: 0px 20px;
+}
+
+.listContent p{
+    margin-bottom: 0rem;
+font-size: 14px;
+line-height: 21px;
+}
+
+.SearchPage-footer{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    position: fixed;
+    bottom: 0;
+    margin: 0 0px 20px 0;
+    width: 100vw;
+}
+
+.SinglePersonData{
+    padding-bottom: 10px;
+}

@@ -1,0 +1,30 @@
+.home{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.heading{
+    
+    font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 28px;
+line-height: 42px;
+margin: 0;
+
+}
+
+.home-container{
+    position: absolute;
+    top: 30vh;
+}
+
+.home-image{
+    display: flex;
+    justify-content: center;
+}
+
+.home-heading{
+    margin-top: 20px;
+}
